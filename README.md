@@ -6,7 +6,6 @@
 | Syahril Haryanto | 312210668 |
 | Farhan Zulfahriansyah | 312210494 |
 | Robby Firmansyah | 312210643 |
-| ALFAZA PUTRA ADJIE ARIEFIANSYAH | 312210512 |
 | Noufal Ariq Fadhurrahman | 312210526 |
 
 import Library
